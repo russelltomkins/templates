@@ -13,3 +13,5 @@ type: Light
 standard: au
 ---
 The bulb has hardware Gamma Correction included, you need to configure `LedTable 0`
+
+1/07/2020 - OTA flash with tuya-convert failed. Serial flash required. No extenrnal/obvious version marking on box. Bunnings stock.
